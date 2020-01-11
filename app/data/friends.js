@@ -24,7 +24,7 @@ var friends = [
       scores: [4, 3, 4, 2, 4, 3, 5, 3, 5, 4]
     },
     {
-      name: "Matt",
+      name: "shallan",
       photo:
         "example",
       scores: [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
